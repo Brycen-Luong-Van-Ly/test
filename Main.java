@@ -6,8 +6,13 @@ public class Main {
 
   public static void println() {
     System.out.println("Hello World");
+  }
 
   public static int sumIt(int a, int b) {
     return a + b;
+  }
+  
+  public static int subtractIt(int a, int b) {
+    return a - b;
   }
 }
