@@ -4,7 +4,11 @@ public class Main {
     System.out.println("Hello World2");
   }
 
+
   public static void println() {
     System.out.println("Hello World");
+
+  public static int sumIt(int a, int b) {
+    return a + b;
   }
 }
